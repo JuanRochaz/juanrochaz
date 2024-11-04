@@ -14,7 +14,7 @@
  
 <br>
  
-### Para entrar em contato, acesse a baixo minha rede social ou e-mail
+### Para entrar em contato, acesse abaixo minha rede social ou e-mail
  
 <div> 
   <a href = "mailto:juanrochat@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
